@@ -12,13 +12,13 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='token')
+cl.login(token='EG0bHPbppXiy5RWnMDv5.8CIK2qrAgtDfOoZ8QN3oLq.A6OpFGLetr7rpp2gJVdrSt1SvZUEw/T7xdqX7faCtbQ=')
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='token')
+ki.login(token='aevRWnK4JWHx_WwEYaLReRkJVvkKF6XRpiWRbvrWo9iJP114UEbCiiWm2iGrZiaqnSm-GxMahYqOWtVxuU70bSnZvakUv9R2i0KtnAis7bsQ')
 ki.loginResult()
 print "Ki-Login Success\n"
 
@@ -42,7 +42,7 @@ print "Kr-Login Success\n"
 
 vipro = LINETCR.LINE() #(isi dengan akun utama fungsinya biar akun utama di kick langsung di invite bot)
 #vipro.login(qr=True)
-vipro.login(token='token')
+vipro.login(token='EGBGZLdWXxnkGMwlqWpd.dRgjRJrrg3tWZAAxf+xglq.Z4lecT59XDXd0JyOGU1iefkcTB8BIDx3MLnbC+05vCY=')
 vipro.loginResult()
 print "Vipro-Login Success\n"
 
@@ -82,8 +82,8 @@ selfMessage ="""
 ╠➩〘Getvid @〙
 ╠➩〘Friendlist〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -104,8 +104,8 @@ botMessage ="""
 ╠➩〘@bye (Usir Bot Utama)〙
 ╠➩〘Bye bot (Usir Semua Bot)〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -143,8 +143,8 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -180,11 +180,11 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="u0eb189ae34511b74f0cda69717f5c62d"
 
 setMessage ="""
 ╔═════════════════════════
@@ -197,8 +197,8 @@ setMessage ="""
 ╠➩〘Contact on/off〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -224,8 +224,8 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -265,8 +265,8 @@ adminMessage ="""
 ╠➩〘Leave on/off〙
 ╠➩〘All join / (Vipro1/2/3/4 Join)〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -288,8 +288,8 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -304,8 +304,8 @@ protectMessage ="""
 ╠➩〘Ghost on/off〙
 ╠➩〘Invitepro on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 ARK 💠
+║    〽️ line.me/ti/p/~akhnar_ 〽️
 ╚═════════════════════════
 """
 
@@ -318,9 +318,9 @@ Cmid = kc.getProfile().mid
 Dmid = kr.getProfile().mid
 Emid = km.getProfile().mid
 Fmid = vipro.getProfile().mid
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"uda936836a9869eb86ec8ab992a4e8979"]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"u0eb189ae34511b74f0cda69717f5c62d"]
+Creator=["u0eb189ae34511b74f0cda69717f5c62d"]
+admin=["u0eb189ae34511b74f0cda69717f5c62d"]
 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
@@ -380,11 +380,11 @@ wait = {
     'kickMention':False,      
     'timeline':True,
     "Timeline":True,
-    "comment1":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment2":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment3":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment4":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment5":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",    
+    "comment1":"Auto Like ©By : Ark\nContact Me : 👉 line.me/ti/p/~akhnar_",
+    "comment2":"Auto Like ©By : Ark\nContact Me : 👉 line.me/ti/p/~akhnar_",
+    "comment3":"Auto Like ©By : Ark\nContact Me : 👉 line.me/ti/p/~akhnar_",
+    "comment4":"Auto Like ©By : Ark\nContact Me : 👉 line.me/ti/p/~akhnar_",
+    "comment5":"Auto Like ©By : Ark\nContact Me : 👉 line.me/ti/p/~akhnar_",    
     "commentOn":True,
     "commentBlack":{},
     "message":"Thx For Add Me (^_^)",    
@@ -1408,9 +1408,9 @@ def bot(op):
 		
             elif msg.text in ["Admin","admin"]:
                 msg.contentType = 13
-                admin1 = "uda936836a9869eb86ec8ab992a4e8979"
-                admin2 = "u8b2bb5214c1afc77d06901a535c23e30"
-                admin3 = "u57a54b914085fea6f04c19f6fe589057"
+                admin1 = "u0eb189ae34511b74f0cda69717f5c62d"
+                admin2 = "u0eb189ae34511b74f0cda69717f5c62d"
+                admin3 = "u0eb189ae34511b74f0cda69717f5c62d"
                 msg.contentMetadata = {'mid': vip}
                 random.choice(KAC).sendMessage(msg)
                 #msg.contentMetadata = {'mid': admin1}
